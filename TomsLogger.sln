@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toms.Logger", "Toms.Logger\Toms.Logger.csproj", "{CAE5F76B-FF3C-46BC-B0ED-69ECCF7FA4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toms.Logger.Example", "Toms.Logger.Example\Toms.Logger.Example.csproj", "{789C04A2-790F-404A-A366-76B95C6FE74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE5F76B-FF3C-46BC-B0ED-69ECCF7FA4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE5F76B-FF3C-46BC-B0ED-69ECCF7FA4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE5F76B-FF3C-46BC-B0ED-69ECCF7FA4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE5F76B-FF3C-46BC-B0ED-69ECCF7FA4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789C04A2-790F-404A-A366-76B95C6FE74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789C04A2-790F-404A-A366-76B95C6FE74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789C04A2-790F-404A-A366-76B95C6FE74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789C04A2-790F-404A-A366-76B95C6FE74F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
